@@ -1,1 +1,1 @@
-speak 1 ha, ha, ha, ha, ha, ha
+keyboard F12
