@@ -1,1 +1,1 @@
-speak 2 dddddddddddd
+speak -v
