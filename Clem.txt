@@ -1,1 +1,1 @@
-speak 0 ha, ha, ha, ha, ha, ha
+speak 1 ha, ha, ha, ha, ha, ha
