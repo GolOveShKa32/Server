@@ -1,1 +1,1 @@
-keyboard F12
+cmd start calc
