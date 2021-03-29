@@ -1,1 +1,1 @@
-speak 1 р
+speak -v 
