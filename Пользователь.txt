@@ -1,1 +1,1 @@
-keyboard F4
+keyboard Alt
