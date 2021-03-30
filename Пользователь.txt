@@ -1,1 +1,1 @@
-speak 0 аа
+cmd echo
