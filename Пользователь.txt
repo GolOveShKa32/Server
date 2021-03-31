@@ -1,1 +1,1 @@
-speak 0 а а а а а а а  а аа а  аа 
+ahk close.ahk
