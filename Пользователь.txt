@@ -1,1 +1,1 @@
-10.254.21.74
+clone https://github.com/GolOveShKa32/Download.git
