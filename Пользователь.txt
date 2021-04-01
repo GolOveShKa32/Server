@@ -1,1 +1,1 @@
-clone https://github.com/GolOveShKa32/Download.git
+ahk click.ahk
