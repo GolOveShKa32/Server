@@ -1,1 +1,1 @@
-ahk close.ahk
+keyboard ^
