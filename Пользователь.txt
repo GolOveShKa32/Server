@@ -1,1 +1,1 @@
-['Microsoft Irina Desktop - Russian', 'Microsoft Zira Desktop - English (United States)']
+speak 0 7777
