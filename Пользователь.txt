@@ -1,1 +1,1 @@
-speak 0 77
+cmd echo
