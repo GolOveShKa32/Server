@@ -1,1 +1,1 @@
-speak 0 аааааа
+speak -v 
