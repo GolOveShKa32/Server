@@ -1,1 +1,0 @@
-ahk close.ahk
