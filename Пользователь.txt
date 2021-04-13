@@ -1,1 +1,1 @@
-speak -v 
+['Microsoft Irina Desktop - Russian', 'Microsoft Zira Desktop - English (United States)']
