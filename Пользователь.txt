@@ -1,1 +1,1 @@
-cmd echo
+web https://www.google.com/
