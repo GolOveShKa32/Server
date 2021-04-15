@@ -1,1 +1,1 @@
-internet 500
+cmd echo
