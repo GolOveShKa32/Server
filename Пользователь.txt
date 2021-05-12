@@ -1,1 +1,1 @@
-windows_reload
+speak -v 
