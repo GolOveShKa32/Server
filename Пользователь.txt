@@ -1,1 +1,1 @@
-ahk close.ahk
+windows_reload
