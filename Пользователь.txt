@@ -1,1 +1,1 @@
-keyboard F10
+keyboard F8
